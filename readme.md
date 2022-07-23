@@ -6,8 +6,13 @@
     ## Heading 2
     ### Heading 3
     #### Heading 4
+    
+    
     code👇🏻
+    
     ![heading tags ](./images/Screenshot%202022-07-23%20at%201.00.20%20PM.png)
+    
+    
     We use '#' to indicate that it is a header.
 
     > **NOTE:** the space after `#` which is important
@@ -139,6 +144,8 @@
     code👇🏻
     
     ![table](./images/Table.png)
+    
+    
     There must be at least 3 to 4 - to separate each header cell.
 
 

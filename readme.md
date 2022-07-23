@@ -23,6 +23,7 @@
     ~~999~~
 
      code👇🏻
+     
     ![text manipulation image](./images/textmanipulation.png)
 
     Here for bold and italics we can make use of either '`**`' or '`__`' anything is fine.
@@ -50,7 +51,11 @@
         2. line four
 
         code👇🏻
+        
+        
         ![ordered list image](./ordered%20list.png)
+        
+        
         Just by using '`1. `' you can get a ordered list, to get nested ordered  list provide a tab space in the list as shown.
         > NOTE: Here, I used 2. three times but the list in the preview comes out to be correct order
         
@@ -59,6 +64,8 @@
 
 
     2. ### unordered list
+    
+    
         - list 
             - nested
             - nested
@@ -66,6 +73,7 @@
         - list
 
         code👇🏻
+        
         ![unordered list](./images/unordered%20list.png)
 
         same as ordered list just replace '`1. `' with '`- `'
@@ -78,12 +86,16 @@
     [google](https://www.google.com/)
   
     code👇🏻
+    
+    
+    
     ![inline link](./images/inline%20link.png)
     A simple inline link to a webpage is shown above, as you can see the syntax goes like this text to be shown goes inside square brackets i.e '`[]`' and the link to the webpage goes inside curley braces '`()`'.
 
     [hower to get text](https://www.google.com/ "this text will appear when hower over inline text")
 
     code👇🏻
+    
     ![hower to get text](./images/Inline%20link%202.png)
     Here adding a extra text bounded in " " in curley braces itself will add this feature.
 
@@ -93,7 +105,9 @@
     proper code 
     system.out.println("hello people");
     ``` 
+    
     code👇🏻
+    
     ![code snipet java](./images/code%20snipit%201.png)
 
     you can able to insert a code snippet using "/```", to specify which language cod you are inserted, you can do that as I did in first line
@@ -105,12 +119,15 @@
     ```
      
      code👇🏻
+     
     ![code snippent 2](./images/code%20snippet%202.png)
 
 6. Inserting images
 
     ![alternative text](./images/google.png)
+    
      code👇🏻
+     
     ![image](./images/image.png)
 
     Here you just need to follow the same syntax of link and add "`!`" in front of square bracket.
@@ -120,7 +137,9 @@
     | Shriram|19   |
     | Balaji |19   |
     
+    
     code👇🏻
+    
     ![table](./images/Table.png)
     There must be at least 3 to 4 - to separate each header cell.
 

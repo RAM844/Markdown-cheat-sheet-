@@ -51,8 +51,6 @@
         2. line four
 
         code👇🏻
-        
-        
         ![ordered list image](./ordered%20list.png)
         
         
